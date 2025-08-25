@@ -31,7 +31,7 @@ include:<br>
 | --------| -----------|
 | Age | Age at visit |
 |BMI  | body mass index |
-|Gender Sex of participant (F, M) |
+|Gender | Sex of participant (F, M) |
 |HOM10D Was stroke ever diagnosed? | from the Home Interview Form (Y, N, U for Unknown) |
 |HOM55 | Current occupational status from the Home Interview Form |
 |DTIA90 | Do you presently drink alcoholic beverages? from the Dietary Intake Form (Y, N) |
@@ -50,5 +50,5 @@ include:<br>
 |VisitDate | Date of visit |
 
 
-The other datasets are nutrition, measurements, medications_wide, and medications_long; variable are not listed here. 
+The other four datasets are nutrition, measurements, medications_wide, and medications_long; variable are not listed here. 
 The assignment was given by UNC BIOS Course - Working with Data in a Public Health Research Setting.
