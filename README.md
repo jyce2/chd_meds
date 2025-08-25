@@ -1,24 +1,28 @@
 # Coronary Heart Disease Study: Analysis Data Set Preparation
 
 
-Goal: We are preparing an analysis data set for a manuscript looking at whether the
+*Goal:* We are preparing an analysis data set for a manuscript looking at whether the
 mineral magnesium – both in the diet and in the blood – affects coronary heart disease (CHD)
 and some conditions possibly associated with CHD, such as hypertension, diabetes, and carotid
 artery wall thickness.<br>
-Study background information: The data sets for this assignment come from the initial
+
+*Study background information:* The data sets for this assignment come from the initial
 participant visit in a longitudinal study that was designed to try to understand factors that affect
 occurrence of heart disease. This study, involving 16,000 people at four clinical sites, has been
 the basis for hundreds of papers that contribute to our scientific knowledge. The study began
-in the mid-1980’s and is still going strong today.<br>
+in the mid-1980’s and is still going strong today.<br> 
+
 In each participant’s initial visit to the clinic (which we call Visit 1), blood was drawn, many
 measurements were taken, and several forms were filled out in an interview. The data sets
 provided to you for this assignment contain only a fraction of the data collected at the visit, but
 still this exercise will be realistic and provide you with a good perspective on what it takes to
 create an analysis data set.<br>
-Data sets: Unless otherwise specified, all data sets in the CHD collection contain variable ID,
+
+*Data sets:* Unless otherwise specified, all data sets in the CHD collection contain variable ID,
 which is a participant’s unique study ID across all visits, and they contain only one record per ID
 (the medications_long data set is an exception). Variables ID, Gender, Race, and Age have no
-missing values, but all other variables might have missing values for some participants.
+missing values, but all other variables might have missing values for some participants.<br>
+
 **Core**<br>
 The Core data set contains a collection of demographic and miscellaneous variables that
 you will supplement with variables from the other data sets. Besides ID, variables
