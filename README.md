@@ -50,5 +50,5 @@ include:<br>
 |VisitDate | Date of visit |
 
 
-The other four datasets are nutrition, measurements, medications_wide, and medications_long; variable are not listed here. 
-The assignment was given by UNC BIOS Course - Working with Data in a Public Health Research Setting.
+The other four datasets are nutrition, measurements, medications_wide, and medications_long; variables from the remaining datasets are not listed here. 
+The assignment was created by UNC BIOS Course - Working with Data in a Public Health Research Setting.
